@@ -10,9 +10,11 @@ Hike is a stunning SwiftUI-based iOS app designed to inspire users to discover a
 
 ## Screenshots
 
-<img src="screenshots/hike_app_card_view_screenshot.png" alt="Trail Card View" width="300"/>
-<img src="screenshots/hike_app_setting_screen_screenshot.png" alt="Setting Screen Half" width="300"/>
-<img src="screenshots/hike_app_setting_screen_full_screenshot.png" alt="Setting Screen Full" width="300"/>
+<div align="center">
+    <img src="screenshots/hike_app_card_view_screenshot.png" alt="Trail Card View" width="200"/>
+    <img src="screenshots/hike_app_setting_screen_screenshot.png" alt="Setting Screen Half" width="200"/>
+    <img src="screenshots/hike_app_setting_screen_full_screenshot.png" alt="Setting Screen Full" width="200"/>
+</div>
 
 ## Acknowledgments
 
